@@ -1,6 +1,6 @@
 # Reddit_NBA_Analytics_ETL_Pipeline
 
-This project delivers a robust data pipeline solution designed to extract, transform, and load (ETL) Reddit data into a Snowflake data warehouse. The pipeline ensures efficient data processing and seamless integration for advanced analysis using PowerBI and visualization by leveraging a powerful combination of tools and services such as Apache Airflow, Amazon EC2, Amazon S3, and Snowflake.
+This project delivers a robust data pipeline solution designed to extract, transform, and load (ETL) Reddit data into a Snowflake data warehouse. The pipeline ensures efficient data processing and seamless integration for advanced analysis and visualization by leveraging a powerful combination of tools and services such as Apache Airflow, Amazon EC2, Amazon S3, and Snowflake.
 
 
 ## Architecture
